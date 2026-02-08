@@ -88,8 +88,16 @@ Currently, I am a **Research Assistant at Academia Sinica**, leading the Intersp
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chen0427ok&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Brian's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chen0427ok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=chen0427ok&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=chen0427ok&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chen0427ok&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Brian's GitHub Stats" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chen0427ok&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chen0427ok&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chen0427ok&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  </picture>
 </div>
 
 <div align="center">
