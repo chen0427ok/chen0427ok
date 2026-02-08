@@ -18,7 +18,10 @@ Currently, I am a **Research Assistant at Academia Sinica**, leading the Intersp
 
 ## 🚀 Highlights
 
-- 🎖️ **Open Source Contributor**: Contributed to [Apache Airflow](https://github.com/apache/airflow), fixing critical server crash bugs.
+- 🏆 **Hackathon Champion**: 1st Place (1/150 teams) at Hsinchu X Meichu Hackathon (NXP Group) - Built IoT smart agriculture system.
+- 🎖️ **Open Source Contributor**:
+  - [Apache Airflow](https://github.com/apache/airflow) ([PR #59374](https://github.com/apache/airflow/pull/59374)) - Authored E2E test suites for DAGs using Playwright.
+  - [Kinto](https://github.com/Kinto/kinto) ([PR #3636](https://github.com/Kinto/kinto/pull/3636)) - Fixed critical server crash (TypeError 500) with robust exception handling.
 - 🗣️ **Research**: First author of "Structured Pruning-Based Optimization", submitted to *The International Journal of Advanced Manufacturing Technology*.
 - 🤖 **AI/ML**: Building Multilingual ASR systems and Speech-LLM Adapters at Academia Sinica.
 
@@ -33,12 +36,24 @@ Currently, I am a **Research Assistant at Academia Sinica**, leading the Intersp
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### AI & GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A3E85?style=for-the-badge&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logoColor=white)
+![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+### Speech & Audio
+![OpenAI Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WavLM](https://img.shields.io/badge/WavLM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F61?style=for-the-badge&logoColor=white)
 
 ### DevOps & Backend
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,6 +61,13 @@ Currently, I am a **Research Assistant at Academia Sinica**, leading the Intersp
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Testing & Web
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
